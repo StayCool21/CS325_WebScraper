@@ -27,6 +27,6 @@ You have two options: using Anaconda's CLI or using an IDE like Visual Studio Co
 ### Using Anaconda
 1. Open up Anaconda by typing ```anaconda prompt``` in the Windows Start menu. 
 2. In Anaconda, navigate to the directory that the unzipped repo files are located in.
-3. Type ``` python main.py``` in the CLI. If no errors appear after pressing Enter, it means that the five articles were written successfully. 
+3. Type ```python main.py``` in the CLI. If no errors appear after pressing Enter, it means that the five articles were written successfully. 
 ### Using VS Code
 4. If you have Visual Studio Code installed, you can change the environment (lower right-hand side) to the Anaconda environment and run from there.
